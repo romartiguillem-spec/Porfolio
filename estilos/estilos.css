@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    height: 100vh;
+}
+header {
+    height: 15vh;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+    flex-direction: row;
+}
+header h1{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+
+}
+header figure {
+    width: 100px;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100px;
+    margin: auto;
+    flex-wrap: nowrap;
+}
+header div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: left;
+    color: white;
+    font-size: 20px;
+    justify-content: space-around;
+}
+header div a {
+    text-align: none;
+    background-color: lightcoral;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-right: 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: transform 0.3s ease-in-out;
+}
+main {
+    background-color: white;
+    flex-basis: 65%;
+}
+
+main h1 {
+    color: orange;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+main article {
+    flex-basis: 100%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+}
+main article nav h3{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    /*padding: 30px;*/
+    margin-right: 10px;
+}
+main article nav span  {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: right;
+    padding: 30px;
+    color: blueviolet;
+}
+main article span {
+
+}
+footer {
+    background-color: aqua;
+    flex-basis: 40%;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+footer nav {
+    display: inline-block;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    padding: 20px;
+
+}
+footer nav a {
+    text-decoration: none;
+    display: inline-block;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
