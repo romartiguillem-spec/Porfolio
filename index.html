@@ -4,7 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Porfolio personal</title>
-    <link rel="stylesheet" href="estilos/estilos.css">
+    <!--Los demas archivos css para el responsable design y first mobile-->
+    <link rel="stylesheet" href="estilos/movil.css">
+    <!--Con el media podemos ir jugando con la medida de las tablets y los moviles con la medida px-->
+    <link rel="stylesheet" href="estilos/tablet.css" media="screen and (min-width: 768px)" >
+    <link rel="stylesheet" href="estilos/descktop.css" media="screen and (min-width: 1000px)">
+    <!--Link para el fond awesone-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
 </head>
 
@@ -12,9 +17,9 @@
     <header>
         <h1>Guillem_Romarti</h1>
         <figure>
-            <img src="img/9942334.png" alt="Inicial" >
+            <img src="img/image.png" alt="Inicial" >
         </figure>
-        <div id="Social">
+        <nav id="Social">
             <a href="#">
                 <i class="fa-brands fa-instagram"></i>
             </a>
@@ -30,37 +35,28 @@
             <a href="#">
                 <i class="fa-brands fa-twitch"></i>
             </a>
-        </div>
+        </nav>
     </header>
     <main>
         <h1>Bienvenido a mi Porfolio personal</h1>
             <article>
-                <nav>
                     <h3>Titulaciones</h3>
-                    <span>
-                    <p>Primaria</p>
-                    <p>ESO</p>
-                    <P>Bachillerato tecnologico</P>
-                    <p>Ciclo formativo superior en administracion de sistemas informaticos en red</p>
-                    </span>
-                </nav>
+                    <div>
+                        <p>Primaria</p>
+                        <p>ESO</p>
+                        <P>Bachillerato tecnologico</P>
+                        <p>Ciclo formativo superior en administracion de sistemas informaticos en red</p>
+                    </div>
             </article>
-            <article>
+            <article id="Experiencia">
                 <h3>Experiencia laboral</h3>
-                <nav>
-                    <span>Primaria</span>
-                    <span>ESO</span>
-                    <span>Bachillerato tecnologico</span>
-                    <span>Ciclo formativo superior en administracion de sistemas informaticos en red</span>
-                </nav>
+                <h5> No tengo experiencia laboral</h5>
             </article>
-            <article>
+            <article id="PaginasWeb">
                 <h3>Paginas web diseñadas</h3>
                 <nav>
-                    <span>Primaria</span>
-                    <span>ESO</span>
-                    <span>Bachillerato tecnologico</span>
-                    <span>Ciclo formativo superior en administracion de sistemas informaticos en red</span>
+                    <a href="https://romartiguillem-spec.github.io/PowerPlanet/">Powerplanet</a>
+                    <a href="#">Libreria</a>
                 </nav>
             </article>
     </main>
