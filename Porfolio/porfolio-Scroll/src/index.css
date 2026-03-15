@@ -1,0 +1,9 @@
+@import "tailwindcss";
+html{
+    scroll-behavior: smooth;
+}
+body{
+    max-width: 100%;
+    overflow-x:hidden ;
+}
+/* con esto lo que estoy hacienod es que la web no se sobresalga de lo que es ( que no haya partes blancas en la web cuadno sobrepasamos los maximos de pixeles que tiene la pantalla) */

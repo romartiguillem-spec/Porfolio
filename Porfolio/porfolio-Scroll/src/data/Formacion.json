@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Ciclo grado superior en ASIR (En prodeso)",
+    "href": "https://iescuravalera.es/",
+    "description": "Formación profesional de nivel técnico superior (FP) enfocada en convertirte en el arquitecto y guardián de la infraestructura tecnológica de una empresa.",
+    "author": {
+      "name": "ASIR",
+      "role": "IES Cura Valera",
+      "href": "https://iescuravalera.es/",
+      "imageUrl": "https://imgs.search.brave.com/PJKwsJ-SIcxYMo5LK5MSuTA_ULX08jwzMA3iAZGMA44/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hdWxh/Y2FtcHVzLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/Mi9BZG1pbmlzdHJh/Y2lvbi1kZS1zaXN0/ZW1hcyVFRiU4MCU4/RGluZm9ybWF0aWNv/cy1lbi1yZWQuc3Zn"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Bachillerato científico tecnológico",
+    "href": "https://iespalmeral.es/",
+    "description": "Modalidad de educación secundaria post-obligatoria diseñada para formar el pensamiento analítico y crítico, enfocandose en entender mediante el método científico y lógica aplicada.",
+    "author": {
+      "name": "Bachillerato Tecnológico",
+      "role": "IES El Palmeral",
+      "href": "https://iespalmeral.es/",
+      "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/011/473/809/small/education-tech-logo-design-digital-school-logo-concept-free-vector.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Curso basico de React",
+    "href": "https://openwebinars.net/",
+    "description": "Potente biblioteca de JavaScript para la cración de aplicaciones front-end rápidas y escalables. Creada por Meta en 2013 especializada en la capa visual de las aplicaciones web.",
+    "author": {
+      "name": "React",
+      "role": "OpenWebinars",
+      "href": "https://openwebinars.net/",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1280px-React.svg.png"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Curso basico de MySQl",
+    "href": "https://openwebinars.net/",
+    "description": "Lenguaje estandar de programacion diseñado para almacenar, manipular y recouperar datos en bases de datos realcionales.",
+    "author": {
+      "name": "SQL",
+      "role": "OpenWebinars",
+      "href": "https://openwebinars.net/",
+      "imageUrl": "https://www.jasoft.org/Blog/image.axd?picture=/2021/localdb/SQL-Server-logo.png"
+    }
+  },
+    {
+    "id": 5,
+    "title": "Curso de Hacking Ético y civerseguridad (En proceso)",
+    "href": "https://www.udemy.com/mobile/ipad/",
+    "description": "Lenguaje estandar de programacion diseñado para almacenar, manipular y recouperar datos en bases de datos realcionales.",
+    "author": {
+      "name": "Civerseguridad y Hacking Ético",
+      "role": "Udemy",
+      "href": "https://www.udemy.com/mobile/ipad/",
+      "imageUrl": "https://images.cults3d.com/PhMz0pOVPAkq2b9ouIZHtC64kr4=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/20492228/illustration-file/7de9fe01-12e5-4274-8f7f-1e738c7815dd/kali-linux-logo-04.png"
+    }
+  }
+]
