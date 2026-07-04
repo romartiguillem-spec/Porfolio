@@ -1,5 +1,5 @@
 import Footer from '../components/Main/Footer';
-import Header from '../components/Main/Header1';
+import Header from '../components/Main/NavBar';
 import QSomos from '../components/sections/QSomos';
 import Formacion from '../components/sections/Formacion';
 import Trabajos from '../components/sections/Trabajos';
