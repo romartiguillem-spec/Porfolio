@@ -1,6 +1,6 @@
 
 
-import trabajos from "../../model/data/Trabajos.json"
+import trabajos from "../../model/data/Array.json/Trabajos.json"
 
 export default function Trabajos() {
   return (

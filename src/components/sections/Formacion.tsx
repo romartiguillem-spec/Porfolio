@@ -1,5 +1,5 @@
 
-import formacion from "../../model/data/Formacion.json"
+import formacion from "../../model/data/Array.json/Formacion.json"
 
 export default function Formacion() {
   return (

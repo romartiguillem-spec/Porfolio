@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "title": "Curso basico de MySQl",
+    "title": "Curso básico de MySQL",
     "href": "https://openwebinars.net/",
     "description": "Lenguaje estandar de programacion diseñado para almacenar, manipular y recouperar datos en bases de datos realcionales.",
     "author": {
@@ -57,6 +57,18 @@
       "role": "Udemy",
       "href": "https://www.udemy.com/mobile/ipad/",
       "imageUrl": "https://images.cults3d.com/PhMz0pOVPAkq2b9ouIZHtC64kr4=/516x516/filters:no_upscale()/https://fbi.cults3d.com/uploaders/20492228/illustration-file/7de9fe01-12e5-4274-8f7f-1e738c7815dd/kali-linux-logo-04.png"
+    }
+  },
+     {
+    "id": 6,
+    "title": "B1 Ingles Cambridge",
+    "href": "https://www.cambridgeenglish.org/es/exams-and-tests/preliminary/",
+    "description": "Certificado de nivel B1 en inglés otorgado por la Universidad de Cambridge.",
+    "author": {
+      "name": "B1 Ingles Cambridge",
+      "role": "Cambridge English",
+      "href": "https://www.cambridgeenglish.org/es/exams-and-tests/preliminary/",
+      "imageUrl": "/public/university-of-cambridge-2.png"
     }
   }
 ]

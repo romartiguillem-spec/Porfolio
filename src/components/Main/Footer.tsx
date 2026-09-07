@@ -1,12 +1,9 @@
-
-
-
-function Footer(){
+function Footer() {
     return (
-        <footer className="py-6 text-center text-sm text-slate-400 bg-gradient-to-r from-blue-600 to-purple-600 text-decoration-black ">
-            ©️ {new Date().getFullYear()} · Mi Portfolio
+        <footer className="py-6 text-center text-sm text-slate-300 bg-gradient-to-r from-blue-600 to-purple-600 shadow-inner">
+            <p>©️ {new Date().getFullYear()} Portfolio. All rights reserved. Designed by Guillem Rodriguez Martinez.</p>
         </footer>
-    )
+    );
 }
 
 export default Footer;

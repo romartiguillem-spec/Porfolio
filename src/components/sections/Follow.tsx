@@ -1,5 +1,5 @@
 
-import follow from "../../model/data/Follow.json"
+import follow from "../../model/data/Array.json/Follow.json"
 
 export default function Follow() {
   return (
